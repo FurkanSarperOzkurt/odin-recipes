@@ -1,0 +1,1 @@
+It is a recipes page that shows basic skill of html and git
